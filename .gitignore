@@ -1,0 +1,16 @@
+# Generated images and PDF pages
+doc_pages/
+doc_pages_pdf/
+
+# Extracted text output and generated PDFs
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# WSL temp files (never in this dir, but just in case)
+/tmp/
